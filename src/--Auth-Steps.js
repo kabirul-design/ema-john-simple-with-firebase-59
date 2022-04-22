@@ -6,8 +6,11 @@
  * 5. npm install firebase on the vs code
  * 6. type const auth = getAuth(app) in the bottom, firebase initialize file and type top export {getAuth} from 'firebase/auth'; and bottom export default auth;
  * 7. firebase setting > authenticating > Enable Email auth options 
+ * 8. npm install --save react-firebase-hooks
+ * 9. useSignInWithEmailAndPassword from react firebase hooks
+
  * 
- * 8. hosting steps- 
+ * 9. hosting steps- 
  *        1. npm install -g firebase-tools
  *        2. firebase login
  *        3. firebase init
