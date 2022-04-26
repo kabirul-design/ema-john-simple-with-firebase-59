@@ -8,6 +8,8 @@
  * 7. firebase setting > authenticating > Enable Email auth options 
  * 8. npm install --save react-firebase-hooks
  * 9. useSignInWithEmailAndPassword from react firebase hooks
+ * 10. create RequireAuth Component ==> Check user exist 
+ * 11. in route wrap protect component by using require Auth component
 
  * 
  * 9. hosting steps- 
